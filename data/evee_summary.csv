@@ -1,0 +1,16 @@
+Gene,Variant_Type,Target,Count
+ABCC8,missense,0,11
+ABCC8,missense,1,138
+ABCC8,splice-site,0,2
+ABCC8,splice-site,1,75
+GCK,missense,0,12
+GCK,missense,1,396
+GCK,splice-site,1,64
+HNF1A,missense,0,33
+HNF1A,missense,1,141
+HNF1A,splice-site,1,43
+HNF4A,missense,0,12
+HNF4A,missense,1,72
+HNF4A,splice-site,1,24
+KCNJ11,missense,0,13
+KCNJ11,missense,1,44
